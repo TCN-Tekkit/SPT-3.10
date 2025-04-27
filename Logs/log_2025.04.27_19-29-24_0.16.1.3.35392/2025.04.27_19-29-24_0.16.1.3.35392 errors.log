@@ -1,3 +1,0 @@
-2025-04-27 21:38:51.087 +02:00|0.16.1.3.35392|Error|Default|Already registered object - Turnable.NetId:1424399346 patron_lamp_hideout (2) 
-2025-04-27 21:44:14.184 +02:00|0.16.1.3.35392|Error|Default|no foldable found on weapon_benelli_m3_s90_12g_container 
-2025-04-27 22:16:28.373 +02:00|0.16.1.3.35392|Error|Default|LayersDefaultStates.Length 3 != _animator.layerCount 0 : weapon_empty_hands_container.bundle 
