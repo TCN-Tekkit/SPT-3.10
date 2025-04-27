@@ -1,0 +1,17 @@
+{
+  "FirstRun": false,
+  "DefaultLocale": "English",
+  "LauncherStartGameAction": 0,
+  "UseAutoLogin": true,
+  "IsDevMode": false,
+  "GamePath": "F:\\GOG Games\\Escape from Tarkov Stable Portable by Ksenia\\Escape from Tarkov",
+  "ExcludeFromCleanup": [],
+  "Server": {
+    "AutoLoginCreds": {
+      "Username": "Tekkit",
+      "Password": ""
+    },
+    "Name": "SPT",
+    "Url": "https://127.0.0.1:6969"
+  }
+}

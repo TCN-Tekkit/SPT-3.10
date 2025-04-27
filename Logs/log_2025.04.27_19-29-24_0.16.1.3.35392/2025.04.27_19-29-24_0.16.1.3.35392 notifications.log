@@ -1,0 +1,91 @@
+2025-04-27 21:29:59.703 +02:00|Info|push-notifications|NotificationManager: new params received url:  ws:wss://127.0.0.1:6969/notifierServer/getwebsocket/68016d27000594363e4c41ff
+2025-04-27 21:31:29.751 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:31:29.751 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:31:29.778 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:32:59.751 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:32:59.751 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:32:59.751 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:34:29.752 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:34:29.752 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:34:29.752 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:35:59.751 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:35:59.751 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:35:59.751 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:37:29.751 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:37:29.751 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:37:29.751 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:38:59.754 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:38:59.754 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:38:59.754 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:40:29.770 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:40:29.770 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:40:29.770 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:41:59.786 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:41:59.786 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:41:59.786 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:43:29.790 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:43:29.790 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:43:29.790 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:44:59.803 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:44:59.803 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:44:59.803 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:46:29.803 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:46:29.803 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:46:29.803 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:47:59.820 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:47:59.820 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:47:59.820 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:49:29.820 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:49:29.820 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:49:29.820 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:50:59.837 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:50:59.837 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:50:59.837 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:52:29.837 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:52:29.837 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:52:29.837 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:53:59.848 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:53:59.848 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:53:59.848 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:55:29.857 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:55:29.857 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:55:29.857 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:56:59.872 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:56:59.872 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:56:59.872 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:58:29.872 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:58:29.872 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:58:29.872 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 21:59:59.888 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 21:59:59.888 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 21:59:59.888 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 22:01:29.888 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 22:01:29.888 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 22:01:29.888 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 22:02:59.904 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 22:02:59.904 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 22:02:59.904 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 22:04:29.905 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 22:04:29.905 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 22:04:29.905 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 22:05:59.923 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 22:05:59.923 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 22:05:59.923 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 22:07:29.922 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 22:07:29.922 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 22:07:29.922 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 22:08:59.939 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 22:08:59.939 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 22:08:59.939 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 22:10:29.956 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 22:10:29.956 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 22:10:29.956 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 22:11:59.972 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 22:11:59.972 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 22:11:59.972 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 22:13:29.988 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 22:13:29.988 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 22:13:29.988 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2025-04-27 22:14:59.989 +02:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2025-04-27 22:14:59.989 +02:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2025-04-27 22:14:59.989 +02:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping

@@ -1,0 +1,65 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "user\\logs\\.f026ec10fa9c04ea412fee355c4eafd328193d5d-audit.json",
+    "files": [
+        {
+            "date": 1744921670396,
+            "name": "user\\logs\\server-2025-04-17.log",
+            "hash": "f0ce516f6c9d4d3314f15db72f97304bbea9c822df6579af8324942b05bd6429"
+        },
+        {
+            "date": 1744927214351,
+            "name": "user\\logs\\server-2025-04-18.log",
+            "hash": "31ec5d276297bec383260725b14b830afb6924dcd1a707cb61003e484614f33b"
+        },
+        {
+            "date": 1745013609877,
+            "name": "user\\logs\\server-2025-04-19.log",
+            "hash": "76e94634103e6b451f8b1037e80cfa5c46b9d5c94795a7b3dcaaa3ff3905f6e3"
+        },
+        {
+            "date": 1745100005093,
+            "name": "user\\logs\\server-2025-04-20.log",
+            "hash": "abfbfe50b96619528d97174fa9c86445e267912b32151d55bdcdd184cc6f81df"
+        },
+        {
+            "date": 1745186410052,
+            "name": "user\\logs\\server-2025-04-21.log",
+            "hash": "31ca33240c1c692bf75b1e226bbb4e98c0824cfb12ab5cb07ab7cec28291f66b"
+        },
+        {
+            "date": 1745272811953,
+            "name": "user\\logs\\server-2025-04-22.log",
+            "hash": "aff3a241726ccaf420b0183575321a3b897bc40826110fd79c9e779aa9ccb4e6"
+        },
+        {
+            "date": 1745359215566,
+            "name": "user\\logs\\server-2025-04-23.log",
+            "hash": "6865cd39b0096497afe9316d49e75ff5a87e2a259a34c9cb39c2cf233e05f7f3"
+        },
+        {
+            "date": 1745445619195,
+            "name": "user\\logs\\server-2025-04-24.log",
+            "hash": "f557ced056dee2f27b3b5af17cfde3569d96744c008f856859f8e9caefd87fc7"
+        },
+        {
+            "date": 1745532006386,
+            "name": "user\\logs\\server-2025-04-25.log",
+            "hash": "6c8c388b23d5dfb467d9c08de8522f11068fd77c04f06a76812512594878f0d4"
+        },
+        {
+            "date": 1745618409691,
+            "name": "user\\logs\\server-2025-04-26.log",
+            "hash": "d00a06069e72309837c91e1f5f18fecf01ebc64d381d559dc418fb1a8d7314e0"
+        },
+        {
+            "date": 1745704806136,
+            "name": "user\\logs\\server-2025-04-27.log",
+            "hash": "956f20f9f65daa057a74629e460924df6e3d713e4cad848e0dde4a19e1b6bb02"
+        }
+    ],
+    "hashType": "sha256"
+}

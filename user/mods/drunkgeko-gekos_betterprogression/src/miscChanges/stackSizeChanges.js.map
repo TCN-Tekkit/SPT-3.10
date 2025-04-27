@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "stackSizeChanges.js",
+    "sourceRoot": "",
+    "sources": [
+        "stackSizeChanges.ts"
+    ],
+    "names": [],
+    "mappings": ";;AAEA,4CAOC;AAPD,SAAgB,gBAAgB,CAAC,OAAgB;IAE7C,oBAAoB;IACpB,KAAK,MAAM,CAAC,IAAI,EAAE,SAAS,CAAC,IAAI,MAAM,CAAC,OAAO,CAAC,OAAO,CAAC,MAAM,CAAC,IAAI,CAAC,iBAA2C,CAAC,EAC/G,CAAC;QACG,OAAO,CAAC,MAAM,CAAC,SAAS,CAAC,KAAK,CAAC,IAAI,CAAC,CAAC,MAAM,CAAC,YAAY,GAAG,SAAS,CAAC;IACzE,CAAC;AACL,CAAC"
+}
